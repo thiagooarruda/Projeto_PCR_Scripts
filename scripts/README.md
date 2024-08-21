@@ -11,9 +11,11 @@ Este diretório contém scripts Python usados para diversas tarefas de controle 
   ```bash
   python scripts/cqdg_201_compare_databases.py --dbname1 "NomeDoBancoModelo" --dbname2 "NomeDoBancoVerificado"
 
-Como Contribuir
-Se você deseja adicionar novos scripts, por favor, siga estas diretrizes:
 
-Nomeie o script de forma clara e descritiva.
-Inclua comentários explicativos no código.
-Atualize este arquivo README.md com informações sobre o novo script.
+### Como Usar:
+
+1. **Crie um arquivo `README.md`** dentro do diretório `scripts/`.
+2. **Cole o conteúdo acima** no arquivo `README.md`.
+3. **Salve o arquivo e faça o commit no repositório**.
+
+Esse `README.md` servirá como um guia tanto para você quanto para outros colaboradores que quiserem adicionar scripts ao repositório, garantindo que a documentação esteja sempre atualizada e os scripts sejam bem organizados.
