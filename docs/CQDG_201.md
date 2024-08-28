@@ -9,8 +9,9 @@ O objetivo do script é garantir que os atributos e geometrias dos bancos de dad
 
 Componentes:
 
-Comparação de Atributos: Verifica se os atributos dos bancos de dados correspondem ao modelo de referência.
-Verificação de Tipos de Geometria: Compara os tipos de geometria presentes nos bancos de dados.
-Geração de Relatório PDF: O script gera um relatório PDF com todas as discrepâncias encontradas, organizado por tabelas e atributos.
+  Comparação de Atributos: Verifica se os atributos dos bancos de dados correspondem ao modelo de referência.
+  Verificação de Tipos de Geometria: Compara os tipos de geometria presentes nos bancos de dados.
+  Geração de Relatório PDF: O script gera um relatório PDF com todas as discrepâncias encontradas, organizado por tabelas e atributos.
+  
 Colaboração:
 Este script faz parte de um projeto de pesquisa colaborativo entre a Prefeitura da Cidade do Recife (PCR) e o Departamento de Cartografia (DECART) da Universidade Federal de Pernambuco (UFPE). O foco é melhorar a qualidade dos dados geoespaciais utilizados nos processos cartográficos da cidade do Recife.
