@@ -207,7 +207,12 @@ class CompareDatabases(QgsProcessingAlgorithm):
     def shortHelpString(self):
         return QCoreApplication.translate(
             "CompareDatabases", 
-            "Este script compara dois bancos de dados PostgreSQL baseados no esquema EDGV "
-            "e gera um relatório PDF destacando as discrepâncias nos atributos e tipos de geometria. "
-            "Desenvolvido por 2º Sgt Arruda do 3º CGEO."
-        )
+            "Este script foi desenvolvido para comparar dois bancos de dados PostgreSQL baseados no esquema EDGV, "
+            "focando na Consistência Conceitual, conforme a Tabela de Medidas de Controle de Qualidade 201 da CQDG. "
+            "Ele gera um relatório PDF que destaca as discrepâncias nos atributos e tipos de geometria entre os bancos de dados analisados.\n\n"
+            "Este script faz parte de um projeto de pesquisa colaborativo entre a Prefeitura da Cidade do Recife (PCR) "
+            "e o Departamento de Cartografia (DECART) da Universidade Federal de Pernambuco (UFPE). O objetivo é auxiliar "
+            "na implementação de controles de qualidade em dados geoespaciais, garantindo que os atributos e geometrias estejam "
+            "em conformidade com o modelo de dados.\n\n"
+            "Desenvolvido por Thiago Arruda."
+    )
