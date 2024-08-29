@@ -208,7 +208,7 @@ class CompareDatabases(QgsProcessingAlgorithm):
         return QCoreApplication.translate(
             "CompareDatabases", 
             "Este script foi desenvolvido para comparar dois bancos de dados PostgreSQL baseados no esquema EDGV, "
-            "focando na Consistência Conceitual, conforme a Tabela de Medidas de Controle de Qualidade 201 da CQDG. "
+            "focando na Consistência Conceitual, conforme a Tabela 7 - Medida conformidade com o modelo de dados. "
             "Ele gera um relatório PDF que destaca as discrepâncias nos atributos e tipos de geometria entre os bancos de dados analisados.\n\n"
             "Este script faz parte de um projeto de pesquisa colaborativo entre a Prefeitura da Cidade do Recife (PCR) "
             "e o Departamento de Cartografia (DECART) da Universidade Federal de Pernambuco (UFPE). O objetivo é auxiliar "
