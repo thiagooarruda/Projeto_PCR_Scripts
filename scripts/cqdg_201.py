@@ -214,5 +214,4 @@ class CompareDatabases(QgsProcessingAlgorithm):
             "e o Departamento de Cartografia (DECART) da Universidade Federal de Pernambuco (UFPE). O objetivo é auxiliar "
             "na implementação de controles de qualidade em dados geoespaciais, garantindo que os atributos e geometrias estejam "
             "em conformidade com o modelo de dados.\n\n"
-            "Desenvolvido por Thiago Arruda."
     )
