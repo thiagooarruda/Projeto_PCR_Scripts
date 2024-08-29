@@ -211,6 +211,5 @@ class CQDG204CompareDomains(QgsProcessingAlgorithm):
             "e o Departamento de Cartografia (DECART) da Universidade Federal de Pernambuco (UFPE). O objetivo é auxiliar "
             "na implementação de controles de qualidade em dados geoespaciais, contribuindo para a melhoria contínua dos "
             "processos cartográficos na cidade do Recife.\n\n"
-            "Desenvolvido por Thiago Arruda."
     )
 
