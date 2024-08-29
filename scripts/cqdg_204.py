@@ -205,7 +205,7 @@ class CQDG204CompareDomains(QgsProcessingAlgorithm):
         return QCoreApplication.translate(
             "CQDG204", 
             "Este script foi desenvolvido para comparar os valores dos domínios em dois bancos de dados PostgreSQL, "
-            "conforme a Tabela de Medidas de Controle de Qualidade 204 da CQDG. Ele gera um relatório PDF que destaca "
+            "conforme a Tabela 10 - Medida porcentagem de não conformidade com o domínio. Ele gera um relatório PDF que destaca "
             "as discrepâncias encontradas entre os bancos de dados analisados.\n\n"
             "Este script faz parte de um projeto de pesquisa colaborativo entre a Prefeitura da Cidade do Recife (PCR) "
             "e o Departamento de Cartografia (DECART) da Universidade Federal de Pernambuco (UFPE). O objetivo é auxiliar "
